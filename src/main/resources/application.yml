@@ -1,0 +1,7 @@
+# XNXGAMES_Discovery
+server:
+  port: 8761
+
+# Log
+logging:
+  config: classpath:logback-spring.xml
